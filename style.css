@@ -114,7 +114,7 @@ font-size: x-large;
  .header{
     height: 95vh;
     background-image:linear-gradient(rgba(0, 0, 0, 0.226),rgba(0, 0, 0, 0.226)) 
-    ,url(../img/main.png);
+    ,url(./img/main.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
